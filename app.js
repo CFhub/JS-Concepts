@@ -3,7 +3,7 @@
 const initialUsers = ["Dave", "John", "Mike"];
 
 // Bad practice, instead use spread operator [...yourArray]
-const currentUsers = initialUsers 
+// const currentUsers = initialUsers 
 
 // Like this
 const currentUsers = [...initialUsers];
